@@ -1,5 +1,5 @@
 # Muffler Delete
-Guitar distortion/fuzz effect based on the 72' Triangle Big Muff, featuring an alternate clipping mode using LEDs and a boost circuit.
+Guitar distortion/fuzz effect based on the 72' Triangle Big Muff, featuring an alternate clipping mode using LEDs and a seperate boost circuit.
 
 ## Circuit Schematic
 ![surface11700](https://user-images.githubusercontent.com/70813514/156430954-624521ef-dc38-42bb-966f-062b9164a765.png)
